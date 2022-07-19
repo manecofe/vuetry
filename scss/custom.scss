@@ -1,0 +1,19 @@
+/*
+*sonic-silver: #737373ff;
+*lime-green: #7ed958ff;
+*bistre: #251605ff;
+*vivid-sky-blue: #5ad2f4ff;
+*columbia-blue: #d6edffff;
+*/
+$sonic-silver: #737373ff;
+$lime-green: #7ed958ff;
+$bistre: #251605ff;
+$vivid-sky-blue: #5ad2f4ff;
+$columbia-blue: #d6edffff;
+
+$primary: $lime-green;
+$secondary: $sonic-silver;
+$light: $columbia-blue;
+$dark: $bistre;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
